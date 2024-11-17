@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Pixel;
+    src: url(font/vcrosdmonorusbyd.ttf);
+}
+
+body {
+    background: #1C2833;
+}
+
+input {
+    background: transparent;
+}
+
+.form-post{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 175px;
+    height: 60px;
+    background: #F1C40F;
+    border: 2px solid #B9770E;
+    font-family: Pixel;
+}
+
+.form-control{
+    background-color: #B2BABB ;
+    border: 2px solid #85929E;
+}
+
+.form-control-text{
+    color:  #2E4053 ;
+}
+
+.form-floating {
+   width: 450px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 7px;
+   font-family: Pixel;
+   background: #1C2833;
+}
+
+h1 {
+    -webkit-text-stroke: 1px #B9770E;
+    text-align: center;
+    font-family: Pixel;
+    color: #F1C40F;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.registration {
+    font-family: Pixel;
+}

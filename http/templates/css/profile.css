@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Pixel;
+    src: url(font/vcrosdmonorusbyd.ttf);
+}
+
+body {
+    background: #1C2833;
+}
+
+h1 {
+    -webkit-text-stroke: 1px #B9770E;
+    font-family: Pixel;
+    color: #F1C40F;
+}
